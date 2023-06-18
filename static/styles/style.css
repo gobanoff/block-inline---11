@@ -1,0 +1,23 @@
+
+    
+p{
+font-size: 24px;
+background-color: rgb(241, 17, 17);
+
+
+}
+.conteiner{
+    display: inline-block;
+    text-align: center;
+background-color: rgb(53, 53, 176);
+    margin: 20px;
+}
+
+
+.main{
+    text-align: center;
+}
+
+img{
+    max-width: 400px;
+}
